@@ -1,8 +1,8 @@
 # Introduction
 This project explores the data job market with a focused lens on Data Analyst roles. It analyzes job postings to uncover:
-** The top-paying positions for data analysts in the industry
-The most in-demand technical skills and tools required for these roles
-Where high demand intersects with high salary, revealing the most valuable skill sets for aspiring and experienced data analysts
+1. The top-paying positions for data analysts in the industry
+2. The most in-demand technical skills and tools required for these roles
+3. Where high demand intersects with high salary, revealing the most valuable skill sets for aspiring and experienced data analysts
 By breaking down both salary trends and skill frequency, this project offers clear, data-driven insights into what it takes to land top-tier roles in the data analytics field.
 
 # Background
